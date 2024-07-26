@@ -23,8 +23,8 @@ Create new features if needed for analysis.
 Correlation Analysis: Find correlations between different variables.
 Group By Analysis: Analyze data by grouping based on specific criteria.
 Results
-The results section of the notebook provides insights into:
 
+The results section of the notebook provides insights into:
 Population distributions across different states and districts.
 Literacy rates segmented by gender.
 Workforce participation rates and gender disparities.
