@@ -22,6 +22,7 @@ Create new features if needed for analysis.
 6. Advanced Analysis
 Correlation Analysis: Find correlations between different variables.
 Group By Analysis: Analyze data by grouping based on specific criteria.
+
 Results
 
 The results section of the notebook provides insights into:
